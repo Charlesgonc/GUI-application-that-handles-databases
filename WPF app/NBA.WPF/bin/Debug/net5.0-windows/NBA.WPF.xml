@@ -1,0 +1,472 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NBA.WPF</name>
+    </assembly>
+    <members>
+        <member name="T:NBA.WPF.App">
+            <summary>
+            Interaction logic for App.xaml.
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.App.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPF.App"/> class.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:NBA.WPF.BL.ConectorWithDatabase">
+            <summary>
+            The class Responsible to conncet the Wpf app with the database.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.BL.ConectorWithDatabase.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPF.BL.ConectorWithDatabase"/> class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.BL.ConectorWithDatabase.TeamManagerLogic">
+            <summary>
+            Gets the Team manager Logic.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.BL.ConectorWithDatabase.NbaSecretaryLogic">
+            <summary>
+            Gets the NBA secretary Logic.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.BL.ConectorWithDatabase.FinancialOfficerLogic">
+            <summary>
+            Gets the Financial Officer Logic.
+            </summary>
+        </member>
+        <member name="T:NBA.WPF.BL.IEditorService">
+            <summary>
+            The Editor Service interface.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.BL.IEditorService.EditPlayer(NBA.WPF.Data.PlayerNBA)">
+            <summary>
+            The declaration of the method to verify the Edit of a player.
+            </summary>
+            <param name="player">The player that we would like to edit.</param>
+            <returns>Bool value.</returns>
+        </member>
+        <member name="T:NBA.WPF.BL.IPlayerNBALogic">
+            <summary>
+            The interface that implements the CRUD operations for the player.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.BL.IPlayerNBALogic.AddPlayerNBA(System.Collections.Generic.IList{NBA.WPF.Data.PlayerNBA})">
+            <summary>
+            The declaration of the method that I would like to add a player to the list.
+            </summary>
+            <param name="list">The list where we would like to insert the player.</param>
+        </member>
+        <member name="M:NBA.WPF.BL.IPlayerNBALogic.EditPlayerNBA(NBA.WPF.Data.PlayerNBA)">
+            <summary>
+            The declaration of the method to edit the player.
+            </summary>
+            <param name="playerToEdit">The player that we would like to modify.</param>
+        </member>
+        <member name="M:NBA.WPF.BL.IPlayerNBALogic.DeletePlayerNBA(System.Collections.Generic.IList{NBA.WPF.Data.PlayerNBA},NBA.WPF.Data.PlayerNBA)">
+            <summary>
+            The declaration of the method to remove a player from the list.
+            </summary>
+            <param name="list">The list from where we would like to remove the player.</param>
+            <param name="player">Th eplayer that we would like to remove from the list.</param>
+        </member>
+        <member name="M:NBA.WPF.BL.IPlayerNBALogic.GetAllPlayersNBA">
+            <summary>
+            Get all playersNBA method.
+            </summary>
+            <returns>Returns an IList of BirthdayServices.</returns>
+        </member>
+        <member name="T:NBA.WPF.BL.PlayerNBALogic">
+            <summary>
+            The implementation of the interface IPLayerNBALogic.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.BL.PlayerNBALogic.#ctor(NBA.WPF.BL.IEditorService,GalaSoft.MvvmLight.Messaging.IMessenger,NBA.WPF.BL.ConectorWithDatabase)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPF.BL.PlayerNBALogic"/> class.
+            </summary>
+            <param name="editorService"> IEditorService.</param>
+            <param name="messenger"> IMessenger.</param>
+            <param name="conector">Conector class.</param>
+        </member>
+        <member name="M:NBA.WPF.BL.PlayerNBALogic.AddPlayerNBA(System.Collections.Generic.IList{NBA.WPF.Data.PlayerNBA})">
+            <summary>
+            The implemetnation of the method to add a player to the list in the UI.
+            </summary>
+            <param name="list">The list where we would like to insert the player.</param>
+        </member>
+        <member name="M:NBA.WPF.BL.PlayerNBALogic.DeletePlayerNBA(System.Collections.Generic.IList{NBA.WPF.Data.PlayerNBA},NBA.WPF.Data.PlayerNBA)">
+            <summary>
+            The implemetnation of the method to delete a player to the list in the UI.
+            </summary>
+            <param name="list">The list from where we want to delete the player.</param>
+            <param name="player">The player that we would like to delete.</param>
+        </member>
+        <member name="M:NBA.WPF.BL.PlayerNBALogic.EditPlayerNBA(NBA.WPF.Data.PlayerNBA)">
+            <summary>
+            The method to edit a player from the list in the UI.
+            </summary>
+            <param name="playerToEdit">THe player that we would like to edit.</param>
+        </member>
+        <member name="M:NBA.WPF.BL.PlayerNBALogic.GetAllPlayersNBA">
+            <summary>
+            Gets all the players in the database.
+            </summary>
+            <returns>The list of the players in the database.</returns>
+        </member>
+        <member name="T:NBA.WPF.Data.PlayerNBA">
+            <summary>
+            The VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.Data.PlayerNBA.PlayerId">
+            <summary>
+            Gets or sets the value for the id of the VM calss.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.Data.PlayerNBA.PlayerName">
+            <summary>
+            Gets or sets the value for the name of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.Data.PlayerNBA.PlayerAge">
+            <summary>
+            Gets or sets and Sets the value for the age of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.Data.PlayerNBA.PlayerHeight">
+            <summary>
+            Gets or sets and Sets the value for the height of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.Data.PlayerNBA.PlayerWeight">
+            <summary>
+            Gets or sets and Sets the value for the weight of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.Data.PlayerNBA.PlayerFieldGoal">
+            <summary>
+            Gets or sets and Sets the value for the field goal of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.Data.PlayerNBA.PlayerSalary">
+            <summary>
+            Gets or sets and Sets the value for the salary of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.Data.PlayerNBA.PlayerDraftDate">
+            <summary>
+            Gets or sets and Sets the value for the draft date of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.Data.PlayerNBA.PlayerPosition">
+            <summary>
+            Gets or sets and Sets the value for the position of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.Data.PlayerNBA.PlayerStatus">
+            <summary>
+            Gets or sets and Sets the value for the position of the VM player class.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.Data.PlayerNBA.CopyFrom(NBA.WPF.Data.PlayerNBA)">
+            <summary>
+            The Player VM class's Copy Method.
+            </summary>
+            <param name="otherPlayer"> The other player.</param>
+        </member>
+        <member name="T:NBA.WPF.Data.Positon">
+            <summary>
+            The position of the PLayer of the View Model.
+            </summary>
+        </member>
+        <member name="F:NBA.WPF.Data.Positon.C">
+            <summary>
+            Position center for the Player.
+            </summary>
+        </member>
+        <member name="F:NBA.WPF.Data.Positon.PF">
+            <summary>
+            Position power forward for the Player.
+            </summary>
+        </member>
+        <member name="F:NBA.WPF.Data.Positon.SF">
+            <summary>
+            Position small forward for the Player.
+            </summary>
+        </member>
+        <member name="F:NBA.WPF.Data.Positon.PG">
+            <summary>
+            Position point guard for the Player.
+            </summary>
+        </member>
+        <member name="F:NBA.WPF.Data.Positon.SG">
+            <summary>
+            Position shooting guard for the Player.
+            </summary>
+        </member>
+        <member name="T:NBA.WPF.Data.Status">
+            <summary>
+            The enum that defines the satus of a player.
+            </summary>
+        </member>
+        <member name="F:NBA.WPF.Data.Status.Active">
+            <summary>
+            The status of a player that is active.
+            </summary>
+        </member>
+        <member name="F:NBA.WPF.Data.Status.Injured">
+            <summary>
+            The status of a player that is Injured.
+            </summary>
+        </member>
+        <member name="F:NBA.WPF.Data.Status.Unactive">
+            <summary>
+             The status of a player that on offseason.
+            </summary>
+        </member>
+        <member name="T:NBA.WPF.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml.
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.MainWindow.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPF.MainWindow"/> class.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:NBA.WPF.MyIoc">
+            <summary>
+            The Override of the class SimpleIoc implementing the IServiceLocator interface.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.MyIoc.Instance">
+            <summary>
+            Gets the MyIoc instance.
+            </summary>
+        </member>
+        <member name="T:NBA.WPF.UI.DateToStringConverter">
+            <summary>
+            Converts the DateTime to a string.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.UI.DateToStringConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Converts from a DateTime to string.
+            </summary>
+            <param name="value">The DateTime to be converted into a string.</param>
+            <param name="targetType">TargetType.</param>
+            <param name="parameter">Parameter.</param>
+            <param name="culture">CultureInfo.</param>
+            <returns>A string convertion of the dateTime.</returns>
+        </member>
+        <member name="M:NBA.WPF.UI.DateToStringConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Converts back the string to the DateTime.
+            </summary>
+            <param name="value">the string to be converted into the dateTime.</param>
+            <param name="targetType">Targettype.</param>
+            <param name="parameter">Parameter.</param>
+            <param name="culture">CultureInfo.</param>
+            <returns>The conversion back of the string.</returns>
+        </member>
+        <member name="T:NBA.WPF.UI.EditorServiceViaWindow">
+            <summary>
+            The editor window via Window.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.UI.EditorServiceViaWindow.EditPlayer(NBA.WPF.Data.PlayerNBA)">
+            <summary>
+            Window's feedback about the edit status.
+            </summary>
+            <param name="player">Player to be edited.</param>
+            <returns>The bool feedback regarding the edit of the player.</returns>
+        </member>
+        <member name="T:NBA.WPF.UI.EditorWindow">
+            <summary>
+            Interaction logic for EditorWindow.xaml.
+            </summary>
+            <summary>
+            EditorWindow
+            </summary>
+        </member>
+        <member name="F:NBA.WPF.UI.EditorWindow.VM">
+            <summary>
+            The view model of the editor window.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.UI.EditorWindow.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPF.UI.EditorWindow"/> class.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.UI.EditorWindow.#ctor(NBA.WPF.Data.PlayerNBA)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPF.UI.EditorWindow"/> class.
+            </summary>
+            <param name="oldPlayerNBA">The player parameter.</param>
+        </member>
+        <member name="P:NBA.WPF.UI.EditorWindow.Player">
+            <summary>
+            Gets the View model player.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.UI.EditorWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:NBA.WPF.UI.HeightToStringConverter">
+            <summary>
+            The height to string converter.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.UI.HeightToStringConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Conversts the double value into the displayed string.
+            </summary>
+            <param name="value">The dobule value to be converted.</param>
+            <param name="targetType">Target type.</param>
+            <param name="parameter">object parameter.</param>
+            <param name="culture"> culture info.</param>
+            <returns>The string conversion of the double value.</returns>
+        </member>
+        <member name="M:NBA.WPF.UI.HeightToStringConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Conversts back the string value from the displayed string to the double value.
+            </summary>
+            <param name="value">The value to be converted.</param>
+            <param name="targetType">Target type.</param>
+            <param name="parameter">Object parameter.</param>
+            <param name="culture">Culture Info.</param>
+            <returns>The double value converted.</returns>
+        </member>
+        <member name="T:NBA.WPF.UI.StatusToBrushConverter">
+            <summary>
+            The converter from the status of a player to a brush background color.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.UI.StatusToBrushConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            Converts the status of the player to a brush color.
+            </summary>
+            <param name="value">The Status to be converted into the brush color.</param>
+            <param name="targetType">The target type.</param>
+            <param name="parameter">The parameter object.</param>
+            <param name="culture">The culture info.</param>
+            <returns>The converted brush color.</returns>
+        </member>
+        <member name="M:NBA.WPF.UI.StatusToBrushConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            does nothing.
+            </summary>
+            <param name="value">The brush color to be converted back.</param>
+            <param name="targetType">The target type.</param>
+            <param name="parameter">The parameter object.</param>
+            <param name="culture">the culture info.</param>
+            <returns>Nothing.</returns>
+        </member>
+        <member name="T:NBA.WPF.VM.EditorViewModel">
+            <summary>
+            The editor window for the selected player.
+            </summary>
+        </member>
+        <member name="F:NBA.WPF.VM.EditorViewModel.player">
+            <summary>
+            The player instance to be edited.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.VM.EditorViewModel.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPF.VM.EditorViewModel"/> class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.VM.EditorViewModel.Player">
+            <summary>
+            Gets or sets the current player to be edited.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.VM.EditorViewModel.Positions">
+            <summary>
+            Gets the Position of the current player to be edited.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.VM.EditorViewModel.Statuses">
+            <summary>
+            Gets the current status of the player.
+            </summary>
+        </member>
+        <member name="T:NBA.WPF.VM.MainViewModel">
+            <summary>
+            The main window for the selected player.
+            </summary>
+        </member>
+        <member name="F:NBA.WPF.VM.MainViewModel.logic">
+            <summary>
+            The inteface that gives access to the CRUD operations.
+            </summary>
+        </member>
+        <member name="M:NBA.WPF.VM.MainViewModel.#ctor(NBA.WPF.BL.IPlayerNBALogic)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPF.VM.MainViewModel"/> class.
+            </summary>
+            <param name="logic"> The logic that containf the crud operarions. </param>
+        </member>
+        <member name="M:NBA.WPF.VM.MainViewModel.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPF.VM.MainViewModel"/> class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.VM.MainViewModel.SelectedPlayer">
+            <summary>
+            Gets or sets the current selected player.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.VM.MainViewModel.AllPLayers">
+            <summary>
+            Gets all the players.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.VM.MainViewModel.AddPlayerCMD">
+            <summary>
+            Gets the add comand for the player.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.VM.MainViewModel.EditPlayerCMD">
+            <summary>
+            Gets the edit command for the player.
+            </summary>
+        </member>
+        <member name="P:NBA.WPF.VM.MainViewModel.DeletePlayerCMD">
+            <summary>
+            Gets the delete command for the player.
+            </summary>
+        </member>
+    </members>
+</doc>

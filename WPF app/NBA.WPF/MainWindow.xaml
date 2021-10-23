@@ -1,0 +1,40 @@
+﻿<Window x:Class="NBA.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:data="clr-namespace:NBA.WPF.Data"
+        xmlns:vm="clr-namespace:NBA.WPF.VM"
+        xmlns:ui="clr-namespace:NBA.WPF.UI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="372" Width="435"
+        Loaded="Window_Loaded" Closing="Window_Closing" >
+    <Window.Resources>
+        <ui:StatusToBrushConverter x:Key="StatusToBrushConverter"/>
+        <ui:HeightToStringConverter x:Key="HeightToStringConverter"/>
+        <ui:DateToStringConverter x:Key="DateToStringConverter"/>
+        <vm:MainViewModel x:Key="VM"/>
+
+        <DataTemplate x:Key="listTemplate" DataType="{x:Type data:PlayerNBA}">
+            <DockPanel Background="{Binding Path=PlayerStatus, Converter={StaticResource StatusToBrushConverter}}" >
+                <Label Content="{Binding Path=PlayerStatus}" ContentStringFormat="Status: {0}" DockPanel.Dock="Top"/>
+                <Label Content="{Binding Path=PlayerName}" ContentStringFormat="Name: {0}" DockPanel.Dock="Top"/>
+                <Label Content="{Binding Path=PlayerAge}" ContentStringFormat="Age: {0}" DockPanel.Dock="Top"/>
+                <Label Content="{Binding Path=PlayerPosition}" ContentStringFormat="Position: {0}" DockPanel.Dock="Top"/>
+                <Label Content="{Binding Path=PlayerFieldGoal}" ContentStringFormat="Field goal: {0}%" DockPanel.Dock="Top"/>
+                <Label Content="{Binding Path=PlayerHeight, Converter={StaticResource HeightToStringConverter}}" ContentStringFormat="Height: {0}" DockPanel.Dock="Top"/>
+                <Label Content="{Binding Path=PlayerWeight}" ContentStringFormat="Weight: {0}kg" DockPanel.Dock="Top"/>
+                <Label Content="{Binding Path=PlayerSalary}" ContentStringFormat="Salary: ${0}" DockPanel.Dock="Top"/>
+                <Label Content="{Binding Path=PlayerDraftDate, Converter={StaticResource DateToStringConverter}}" ContentStringFormat="Draft Date: {0}" DockPanel.Dock="Top"/>
+                <Label />
+            </DockPanel>
+        </DataTemplate>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource VM}">
+        <ListBox ItemTemplate="{StaticResource listTemplate}" ItemsSource="{Binding Path=AllPLayers}" SelectedItem="{Binding Path=SelectedPlayer}" HorizontalAlignment="Left" Height="336" Margin="10,0,0,0" VerticalAlignment="Center" Width="258" HorizontalContentAlignment="Stretch"/>
+
+        <Button Command="{Binding Path=AddPlayerCMD}" Content="ADD" HorizontalAlignment="Left" Margin="284,15,0,0" VerticalAlignment="Top" Height="61" Width="97"/>
+        <Button Command="{Binding Path=EditPlayerCMD}" Content="EDIT" HorizontalAlignment="Left" Margin="284,93,0,0" VerticalAlignment="Top" Height="62" Width="97"/>
+        <Button Command="{Binding Path=DeletePlayerCMD}" Content="DELETE" HorizontalAlignment="Left" Margin="284,178,0,0" VerticalAlignment="Top" Height="62" Width="97"/>
+    </Grid>
+</Window>
