@@ -1,0 +1,181 @@
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.exe
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.deps.json
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.runtimeconfig.json
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.runtimeconfig.dev.json
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\ref\NBA.Web.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.pdb
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.Views.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.Views.pdb
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.csprojAssemblyReference.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.AssemblyInfoInputs.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.AssemblyInfo.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.csproj.CoreCompileInputs.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.RazorAssemblyInfo.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.RazorAssemblyInfo.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\staticwebassets\NBA.Web.StaticWebAssets.Manifest.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\staticwebassets\NBA.Web.StaticWebAssets.xml
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\scopedcss\bundle\NBA.Web.styles.css
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.TagHelpers.input.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.TagHelpers.output.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.RazorCoreGenerate.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.Views.pdb
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.csproj.CopyComplete
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\ref\NBA.Web.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.pdb
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.genruntimeconfig.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBAdb.mdf
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBAdb_log.ldf
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Data.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Logic.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Repository.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Logic.pdb
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Logic.xml
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Repository.pdb
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Repository.xml
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Data.pdb
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Data.xml
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Players\PlayersDetails.cshtml.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Players\PlayersEdit.cshtml.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Players\PlayersIndex.cshtml.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Players\PlayersList.cshtml.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\stylecop.json
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.xml
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Random\RandomSelection.cshtml.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\stylecop.json
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.exe
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBAdb.mdf
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBAdb_log.ldf
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.deps.json
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.runtimeconfig.json
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.runtimeconfig.dev.json
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\ref\NBA.Web.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.pdb
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.xml
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.Views.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Web.Views.pdb
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Data.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Logic.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Repository.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Logic.pdb
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Logic.xml
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Repository.pdb
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Repository.xml
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Data.pdb
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\bin\Debug\net5.0\NBA.Data.xml
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.csprojAssemblyReference.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.AssemblyInfoInputs.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.AssemblyInfo.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.csproj.CoreCompileInputs.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.RazorAssemblyInfo.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.RazorAssemblyInfo.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\staticwebassets\NBA.Web.StaticWebAssets.Manifest.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\staticwebassets\NBA.Web.StaticWebAssets.xml
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\scopedcss\bundle\NBA.Web.styles.css
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.TagHelpers.input.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.TagHelpers.output.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.RazorCoreGenerate.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Players\PlayersDetails.cshtml.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Players\PlayersEdit.cshtml.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Players\PlayersIndex.cshtml.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Players\PlayersList.cshtml.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.RazorTargetAssemblyInfo.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.RazorTargetAssemblyInfo.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.Views.pdb
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.csproj.CopyComplete
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\ref\NBA.Web.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.pdb
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.Web\obj\Debug\net5.0\NBA.Web.genruntimeconfig.cache
