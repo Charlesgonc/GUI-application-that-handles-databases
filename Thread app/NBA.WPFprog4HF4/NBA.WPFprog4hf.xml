@@ -1,0 +1,258 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NBA.WPFprog4hf</name>
+    </assembly>
+    <members>
+        <member name="T:NBA.WPFprog4hf.App">
+            <summary>
+            Interaction logic for App.xaml.
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:NBA.WPFprog4hf.App.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPFprog4hf.App"/> class.
+            </summary>
+        </member>
+        <member name="M:NBA.WPFprog4hf.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:NBA.WPFprog4hf.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:NBA.WPFprog4hf.IMainLogic">
+            <summary>
+            MainLogic interface.
+            </summary>
+        </member>
+        <member name="M:NBA.WPFprog4hf.IMainLogic.ExecuteGetOnes">
+            <summary>
+            Definition of Get Ones method.
+            </summary>
+            <returns>PLayer.</returns>
+        </member>
+        <member name="M:NBA.WPFprog4hf.IMainLogic.SelectLogic(System.Int32)">
+            <summary>
+            Definition of Select method.
+            </summary>
+            <param name="id">id of player to be selected.</param>
+        </member>
+        <member name="M:NBA.WPFprog4hf.IMainLogic.UnselectLogic(System.Int32)">
+            <summary>
+            Definition of Unselect method.
+            </summary>
+            <param name="id">Id of the player to be unselected.</param>
+        </member>
+        <member name="M:NBA.WPFprog4hf.IMainLogic.DeleteOne(System.Int32)">
+            <summary>
+            Definition of the method to delete player.
+            </summary>
+            <param name="id">id of the player to be deleted.</param>
+        </member>
+        <member name="T:NBA.WPFprog4hf.MainLogic">
+            <summary>
+            Main logic.
+            </summary>
+        </member>
+        <member name="M:NBA.WPFprog4hf.MainLogic.ExecuteGetOnes">
+            <summary>
+            Execute n times the get one method.
+            </summary>
+            <returns>The list of the generated ones.</returns>
+        </member>
+        <member name="M:NBA.WPFprog4hf.MainLogic.SelectLogic(System.Int32)">
+            <summary>
+            Select method.
+            </summary>
+            <param name="id">id of the playyer to be selected.</param>
+        </member>
+        <member name="M:NBA.WPFprog4hf.MainLogic.UnselectLogic(System.Int32)">
+            <summary>
+            Unselect method.
+            </summary>
+            <param name="id">id of the playyer to be unselected.</param>
+        </member>
+        <member name="M:NBA.WPFprog4hf.MainLogic.DeleteOne(System.Int32)">
+            <summary>
+            Delete method.
+            </summary>
+            <param name="id">Id of the player to be deleted.</param>
+        </member>
+        <member name="T:NBA.WPFprog4hf.MainVM">
+            <summary>
+            the main VM.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.MainVM.CustomNumber">
+            <summary>
+            Gets or sets the selected player.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.MainVM.RandomPlayers">
+            <summary>
+            Gets or sets all players.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.MainVM.SendCmd">
+            <summary>
+            Gets the del command.
+            </summary>
+        </member>
+        <member name="M:NBA.WPFprog4hf.MainVM.#ctor(NBA.WPFprog4hf.IMainLogic)">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPFprog4hf.MainVM"/> class.
+            </summary>
+            <param name="logic">MainLogic.</param>
+        </member>
+        <member name="M:NBA.WPFprog4hf.MainVM.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPFprog4hf.MainVM"/> class.
+            </summary>
+        </member>
+        <member name="M:NBA.WPFprog4hf.MainVM.Helper(System.Object,System.EventArgs)">
+            <summary>
+            Helper method.
+            </summary>
+            <param name="sender">name.</param>
+            <param name="e">sender.</param>
+        </member>
+        <member name="M:NBA.WPFprog4hf.MainVM.SelectVM(System.Int32)">
+            <summary>
+            Select method.
+            </summary>
+            <param name="id">id of the player to be selected.</param>
+        </member>
+        <member name="M:NBA.WPFprog4hf.MainVM.UnselectVM(System.Int32)">
+            <summary>
+            Unselect method.
+            </summary>
+            <param name="id">id of the player to be unselected.</param>
+        </member>
+        <member name="M:NBA.WPFprog4hf.MainVM.DeleteOneVM(System.Int32)">
+            <summary>
+            Delete method.
+            </summary>
+            <param name="id">id of the player to be deleted.</param>
+        </member>
+        <member name="T:NBA.WPFprog4hf.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml.
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:NBA.WPFprog4hf.MainWindow.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPFprog4hf.MainWindow"/> class.
+            </summary>
+        </member>
+        <member name="M:NBA.WPFprog4hf.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:NBA.WPFprog4hf.MyIoc">
+            <summary>
+            MyIoc.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.MyIoc.Instance">
+            <summary>
+            Gets the MyIoc instance.
+            </summary>
+        </member>
+        <member name="T:NBA.WPFprog4hf.PlayerVM">
+            <summary>
+            PLayer vm.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.PlayerVM.PlayerId">
+            <summary>
+            Gets or sets the value for the id of the VM calss.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.PlayerVM.PlayerName">
+            <summary>
+            Gets or sets the value for the name of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.PlayerVM.PlayerAge">
+            <summary>
+            Gets or sets and Sets the value for the age of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.PlayerVM.PlayerHeight">
+            <summary>
+            Gets or sets and Sets the value for the height of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.PlayerVM.PlayerWeight">
+            <summary>
+            Gets or sets and Sets the value for the weight of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.PlayerVM.PlayerFieldGoal">
+            <summary>
+            Gets or sets and Sets the value for the field goal of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.PlayerVM.PlayerSalary">
+            <summary>
+            Gets or sets and Sets the value for the salary of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.PlayerVM.PlayerDraftDate">
+            <summary>
+            Gets or sets and Sets the value for the draft date of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.PlayerVM.PlayerPosition">
+            <summary>
+            Gets or sets and Sets the value for the position of the VM player class.
+            </summary>
+        </member>
+        <member name="P:NBA.WPFprog4hf.PlayerVM.PlayerIsSelected">
+            <summary>
+            Gets or sets and Sets the value for the selection of the VM player class.
+            </summary>
+        </member>
+        <member name="M:NBA.WPFprog4hf.PlayerVM.CopyFrom(NBA.WPFprog4hf.PlayerVM)">
+            <summary>
+            The Player VM class's Copy Method.
+            </summary>
+            <param name="otherPlayer"> The other player.</param>
+        </member>
+        <member name="M:NBA.WPFprog4hf.PlayerVM.ToString">
+            <summary>
+            Override to string.
+            </summary>
+            <returns>The string representation of this class.</returns>
+        </member>
+        <member name="T:NBA.WPFprog4hf.SecondWindow">
+            <summary>
+            Interaction logic for SecondWindow.xaml.
+            </summary>
+            <summary>
+            SecondWindow
+            </summary>
+        </member>
+        <member name="M:NBA.WPFprog4hf.SecondWindow.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:NBA.WPFprog4hf.SecondWindow"/> class.
+            </summary>
+        </member>
+        <member name="M:NBA.WPFprog4hf.SecondWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>

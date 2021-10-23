@@ -1,0 +1,19 @@
+﻿<Window x:Class="NBA.WPFprog4hf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NBA.WPFprog4hf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="176" Width="546" Closing="Window_Closing">
+    <Window.DataContext>
+        <local:MainVM/>
+    </Window.DataContext>
+    <Grid Margin="0,0,0,-16">
+        <Label Content="Type a number:" FontSize="25" HorizontalAlignment="Left" Margin="17,44,0,0" VerticalAlignment="Top" Height="45" Width="197"/>
+        <TextBox HorizontalAlignment="Left" Text="{Binding Path=CustomNumber}" Margin="226,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="132" Height="46" FontSize="30" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"/>
+        <Button Content="Send" Command="{Binding Path=SendCmd}" Click="Button_Click" HorizontalAlignment="Left" Margin="376,43,0,0" VerticalAlignment="Top" Height="46" Width="100"/>
+        <Label Content="*Number of players to be randomly generated." HorizontalAlignment="Left" Margin="17,96,0,0" VerticalAlignment="Top" Width="216" FontSize="10"/>
+        <Label Content="*Please wait after pressing 'Send'." HorizontalAlignment="Left" Margin="368,96,0,0" VerticalAlignment="Top" Width="156" FontSize="10"/>
+    </Grid>
+</Window>

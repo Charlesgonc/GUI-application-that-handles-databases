@@ -1,0 +1,5 @@
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\netcoreapp3.1\NBA.WPFprog4hf.csprojAssemblyReference.cache
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\netcoreapp3.1\NBA.WPFprog4hf_MarkupCompile.cache
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\netcoreapp3.1\NBA.WPFprog4hf_MarkupCompile.lref

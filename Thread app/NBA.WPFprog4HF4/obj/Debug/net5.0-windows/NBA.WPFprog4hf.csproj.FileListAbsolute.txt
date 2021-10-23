@@ -1,0 +1,85 @@
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\NBA.WPFprog4hf_MarkupCompile.cache
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\NBA.WPFprog4hf_MarkupCompile.lref
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\bin\Debug\net5.0-windows\NBA.WPFprog4hf.exe
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\bin\Debug\net5.0-windows\NBA.WPFprog4hf.deps.json
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\bin\Debug\net5.0-windows\NBA.WPFprog4hf.runtimeconfig.json
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\bin\Debug\net5.0-windows\NBA.WPFprog4hf.runtimeconfig.dev.json
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\bin\Debug\net5.0-windows\NBA.WPFprog4hf.dll
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\bin\Debug\net5.0-windows\ref\NBA.WPFprog4hf.dll
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\bin\Debug\net5.0-windows\NBA.WPFprog4hf.pdb
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\bin\Debug\net5.0-windows\NBA.WPFprog4hf.xml
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\bin\Debug\net5.0-windows\CommonServiceLocator.dll
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\NBA.WPFprog4hf.g.resources
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\NBA.WPFprog4hf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\NBA.WPFprog4hf.AssemblyInfoInputs.cache
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\NBA.WPFprog4hf.AssemblyInfo.cs
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\NBA.WPFprog4hf.csproj.CoreCompileInputs.cache
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\NBA.WPFprog4hf.csproj.CopyComplete
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\NBA.WPFprog4hf.dll
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\ref\NBA.WPFprog4hf.dll
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\NBA.WPFprog4hf.pdb
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\NBA.WPFprog4hf.genruntimeconfig.cache
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\SecondWindow.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\trial one\NBA.WPFprog4hf\obj\Debug\net5.0-windows\SecondWindow.baml
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.exe
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.deps.json
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.runtimeconfig.json
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.runtimeconfig.dev.json
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\ref\NBA.WPFprog4hf.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.pdb
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.xml
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\CommonServiceLocator.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\SecondWindow.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf_MarkupCompile.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf_MarkupCompile.lref
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\SecondWindow.baml
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.g.resources
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.AssemblyInfoInputs.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.AssemblyInfo.cs
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.csproj.CoreCompileInputs.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.csproj.CopyComplete
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\ref\NBA.WPFprog4hf.dll
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.pdb
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.genruntimeconfig.cache
+C:\Users\Charl\OneDrive\Asztali gép\Prog4 HF1\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.csprojAssemblyReference.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.exe
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.deps.json
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.runtimeconfig.json
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.runtimeconfig.dev.json
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\ref\NBA.WPFprog4hf.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.pdb
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\NBA.WPFprog4hf.xml
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\CommonServiceLocator.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\SecondWindow.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf_MarkupCompile.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf_MarkupCompile.lref
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\SecondWindow.baml
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.g.resources
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.AssemblyInfoInputs.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.AssemblyInfo.cs
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.csproj.CoreCompileInputs.cache
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.csproj.CopyComplete
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\ref\NBA.WPFprog4hf.dll
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.pdb
+C:\Users\Charl\OneDrive\Documents\GitHub\GUI-application-that-handles-databases\OENIK_PROG3_2020_2_DWFD1I\NBA.WPFprog4HF4\obj\Debug\net5.0-windows\NBA.WPFprog4hf.genruntimeconfig.cache

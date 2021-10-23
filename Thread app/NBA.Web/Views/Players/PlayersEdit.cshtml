@@ -1,0 +1,39 @@
+﻿@model NBA.Web.Models.Player
+
+<h2> Player Editor  </h2>
+
+@using (Html.BeginForm("Edit", "Players"))
+{
+    @Html.ValidationSummary()
+
+    @Html.AntiForgeryToken()
+
+    @Html.HiddenFor(m => m.PlayerId)
+
+    @Html.Hidden("editAction", ViewData["editAction"].ToString());
+
+    <div class="editor-label"> @Html.LabelFor(m => m.PlayerName)</div>
+    <div class="editor-field"> @Html.EditorFor(m => m.PlayerName)</div>
+
+    <div class="editor-label"> @Html.LabelFor(m => m.PlayerAge)</div>
+    <div class="editor-field"> @Html.EditorFor(m => m.PlayerAge)</div>
+
+    <div class="editor-label"> @Html.LabelFor(m => m.PlayerPosition)</div>
+    <div class="editor-field"> @Html.EditorFor(m => m.PlayerPosition)</div>
+
+    <div class="editor-label"> @Html.LabelFor(m => m.PlayerHeight)</div>
+    <div class="editor-field"> @Html.EditorFor(m => m.PlayerHeight)</div>
+
+    <div class="editor-label"> @Html.LabelFor(m => m.PlayerWeight)</div>
+    <div class="editor-field"> @Html.EditorFor(m => m.PlayerWeight)</div>
+
+    <div class="editor-label"> @Html.LabelFor(m => m.PlayerFieldGoal)</div>
+    <div class="editor-field"> @Html.EditorFor(m => m.PlayerFieldGoal)</div>
+
+    <div class="editor-label"> @Html.LabelFor(m => m.PlayerSalary)</div>
+    <div class="editor-field"> @Html.EditorFor(m => m.PlayerSalary)</div>
+
+    <input type="submit" value="SEND"/>
+
+
+}

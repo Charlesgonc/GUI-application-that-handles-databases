@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hPcr7kygBWzneDpLhjhlQgGlk+alyf1V/+06AUs9wEEOLoABqbjoXv32SVmxWW1x/51VH2tpRFQASXj+Zxy2yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Charl\\OneDrive\\Documents\\GitHub\\GUI-application-that-handles-databases\\Thread app\\NBA.WPFprog4HF4\\NBA.WPFprog4hf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Charl\\.nuget\\packages\\commonservicelocator\\2.0.6\\commonservicelocator.2.0.6.nupkg.sha512",
+    "C:\\Users\\Charl\\.nuget\\packages\\mvvmlightlibsstd10\\5.4.1.1\\mvvmlightlibsstd10.5.4.1.1.nupkg.sha512",
+    "C:\\Users\\Charl\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

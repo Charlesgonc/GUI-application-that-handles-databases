@@ -1,0 +1,15 @@
+﻿<Window x:Class="NBA.WPFprog4hf.SecondWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NBA.WPFprog4hf"
+        mc:Ignorable="d"
+        Title="SecondWindow" Height="408" Width="904">
+    <Grid>
+        <ListBox ItemsSource="{Binding Path=RandomPlayers}" HorizontalAlignment="Left" Height="227" Margin="10,10,0,0" VerticalAlignment="Top" Width="847"/>
+        <Label Content="After loading all the newly generated players switch to the WEB page and refresh it." HorizontalAlignment="Left" Margin="10,257,0,0" VerticalAlignment="Top"/>
+        <Label Content="Notice that if you refresh after every 2 second there will be a 'Jump' of one player from a table to another." HorizontalAlignment="Left" Margin="10,283,0,0" VerticalAlignment="Top"/>
+        <Label Content="This is because the status of the selection of ONE RANDOM palyer is set to change after every 1 second :)" HorizontalAlignment="Left" Margin="10,309,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
